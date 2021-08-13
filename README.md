@@ -3,6 +3,8 @@ npm install express
 npm install ejs
 npm install nodemon
 npm install mysql
+npm install consign@0.1.6 --save
+npm install body-parser@1.17.2 --save
 
 # Comandos
 create database portal_noticias;
